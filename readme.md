@@ -1,10 +1,11 @@
-*Coursera: Machine Learning (Stanford: Andrew Ng) -> 97.3%*
+## Coursera: Machine Learning (Stanford: Andrew Ng)
 
-- Start Date: Nov 5th
-- End Date: Dec 26th
+- Start Date: Nov 5th, 2016
+- End Date: Dec 26th, 2016
 - Rating: 5 stars
+- Grade: *97.3%*
 
-*Review:*
+### Review:
 
 Excellent starter course on machine learning.  Andrews style of teaching
 is very refreshing.  His ability to break down topics and explain complex
@@ -18,7 +19,7 @@ simple and breakdown the equations with a nice explanation which
 make them easy to follow and implement.  Very accessible course, highly
 recommended!
 
-*Topics Covered:*
+### Topics Covered:
 
 - Linear Regersion
 - Logistic Regresion
